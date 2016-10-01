@@ -1,0 +1,156 @@
+body {
+ 	text-align: center;
+	background: url(../img/bg.gif) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.contentBg {
+	background-color: rgba(0,0,0, 0.6);
+	padding: 2% 5% 5%;
+	margin: 2% auto;
+	border-radius: 2%;
+}
+
+#inputDiv {
+	background-color: rgba(0,0,0, 0.6);
+	padding: 2% 5% 5%;
+	margin-top: 28%;
+	border-radius: 2%;
+}
+
+#bdayInput {
+	text-align: center;
+}
+
+.headerH1 {
+	font-family: 'Exo 2', sans-serif;
+	font-size: 28px;
+	color: #FFF;
+}
+
+#animalPic {
+	width: 30%;
+	margin-bottom: 3%;
+	-webkit-filter: invert(100%); filter: invert(100%);
+}
+
+#yourAnimal {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 36px;
+	font-weight: bolder;
+	margin-bottom: 3%;
+	color: #FFF
+}
+
+#yourZodiac {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 24px;
+	font-weight: 900;
+	color: #FFF;
+}
+
+.hideDiv {
+	display: none;
+}
+
+.rooster {
+	background: url(../img/roosterbg.png) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.monkey {
+	background: url(../img/monkeybg.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.sheep {
+	background: url(../img/sheepbg.png) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.horse {
+	background: url(../img/horsebg.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.snake {
+	background: url(../img/snakebg.png) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.dragon {
+	background: url(../img/dragonbg.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.rabbit {
+	background: url(../img/rabbitbg.png) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.tiger {
+	background: url(../img/tigerbg.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.ox {
+	background: url(../img/oxbg.png) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.rat {
+	background: url(../img/ratbg.png) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.pig {
+	background: url(../img/pigbg.png) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+.dog {
+	background: url(../img/dogbg.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+
+/*Credit for most of the artwork goes to karmaweather.com*/
