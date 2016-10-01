@@ -23,6 +23,7 @@ body {
 
 #bdayInput {
 	text-align: center;
+	overflow: auto;
 }
 
 .headerH1 {
